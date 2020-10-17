@@ -12,10 +12,10 @@
 <details>
     <summary>My statistics of GitHub</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mateusblm&theme=dark&show_icons=true&include_all_commits=true" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mateusblm&theme=white&show_icons=true&include_all_commits=true" alt="" />
     </p>
     <p align="center">
         <b>Languages most used in projects</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusblm&theme=dark" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusblm&theme=white" alt="" />
     </p>
 </details>
