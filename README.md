@@ -1,21 +1,20 @@
-### Hi there 👋
+### Opa 👋
 <p align="center">
-    <b>I'm Mateus, a Software Engineering student, fascinated by this world of diverse technologies.</b>
+    <b>Sou um estudante de Engenharia de Software, fascinado por programação e tecnologia.</b>
 </p>
 
 <ul>
-    <li>🏅 I spend my time contributing and creating open source projects</li>
-    <li>📚 Studying Python | Django | Dev Web | Inglês | JavaScript</li>
-    <li>❓ I'm always willing to help, so you can ask me questions!
+    <li>🏅 Eu passo o meu tempo contribuindo para projetos open source e pessoais!</li>
+    <li>📚 Estudando Python | Dev Web | Inglês | JavaScript</li>
 </ul>
 
 <details>
-    <summary>My statistics of GitHub</summary>
+    <summary>Minhas estatisticas do GitHub</summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=mateusblm&theme=white&show_icons=true&include_all_commits=true" alt="" />
     </p>
     <p align="center">
-        <b>Languages most used in projects</b> <br />
+        <b>Linguagens mais usadas:</b> <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusblm&theme=white" alt="" />
     </p>
 </details>
