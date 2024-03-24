@@ -4,7 +4,6 @@
 </p>
 
 <ul>
-    <li>🏅 Eu passo o meu tempo contribuindo para projetos open source e pessoais!</li>
     <li>📚 Estudando Python | Dev Web | Inglês | JavaScript</li>
 </ul>
 
