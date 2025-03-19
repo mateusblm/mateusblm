@@ -4,7 +4,7 @@
 </p>
 
 <ul>
-    <li>📚 Estudando Python | Dev Web | Inglês | JavaScript</li>
+    <li>📚 Estudando Java | Spring Boot | Docker | Postman | JavaScript | AWS | Inglês | </li>
 </ul>
 
 <details>
