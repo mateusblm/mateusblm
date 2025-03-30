@@ -1,6 +1,6 @@
 ### Opa 👋
 <p align="center">
-    <b>Sou um estudante de Engenharia de Software, fascinado por programação e tecnologia.</b>
+    <b>Sou um estudante de Engenharia de Software, focado no desenvolvimento back-end.</b>
 </p>
 
 <ul>
