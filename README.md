@@ -1,6 +1,6 @@
 ### Opa 👋
 <p align="center">
-    <b>Sou um estudante de Engenharia de Software, focado no desenvolvimento back-end.</b>
+    <b>Sou um desenvolvedor back-end, focado em aplicações Java e Spring. Estudando microserviços e API RESTful.</b>
 </p>
 
 <ul>
