@@ -13,6 +13,8 @@
     </p>
     <p align="center">
         <b>Linguagens mais usadas:</b> <br />
+        <ul>
+        </ul>
         <img src="https://github-readme-stats-one-rho-30.vercel.app//api/top-langs?username=mateusblm&theme=transparent" alt="" />
     </p>
 </details>
