@@ -12,8 +12,8 @@
         <img src="https://github-readme-stats-one-rho-30.vercel.app//api?username=mateusblm&theme=transparent&show_icons=true&include_all_commits=true" alt="" />
     </p>
     <p align="center">
-        <b>Linguagens mais usadas:</b>
-                                           
+        <b>Linguagens mais usadas:</b> <br />
+        
         <img src="https://github-readme-stats-one-rho-30.vercel.app//api/top-langs?username=mateusblm&theme=transparent" alt="" />
     </p>
 </details>
