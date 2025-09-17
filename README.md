@@ -1,10 +1,9 @@
 ### Opa 👋
 <p align="center">
-    <b>Sou um desenvolvedor back-end, focado em aplicações Java e Spring. Estudando microserviços e API RESTful.</b>
+    <b>Sou um desenvolvedor back-end, focado em aplicações Java e Spring. Atualmente estudando princípios de clean code e orientação a objetos avançada.</b>
 </p>
 
 <ul>
-    <li>📚 Estudando Java | Spring Boot | API RESTful | JavaScript | Inglês | </li>
 </ul>
 
 <details>
