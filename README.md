@@ -64,11 +64,11 @@
     <tr>
       <td align="center">
         <a href="https://github.com/lucasroussenq">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasroussenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusblm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/lucasroussenq">
+        <a href="https://github.com/mateusblm">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusblm&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
         </a>
       </td>
