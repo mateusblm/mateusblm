@@ -20,17 +20,17 @@
   <br>
   <h3>Front-End</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue" alt="Front-End Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,flutter,tailwind" alt="Front-End Skills" />
   </a>
 
   <h3>Back-End & Banco de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" alt="Back-End Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,quarkus,mysql,postgres" alt="Back-End Skills" />
   </a>
 
   <h3>DevOps & Ferramentas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" alt="DevOps Skills" />
+    <img src="https://skillicons.dev/icons?i=docker,maven,postman,rabbitmq,git,github,gitlab" alt="DevOps Skills" />
   </a>
 </div>
 
@@ -57,23 +57,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=GitHub+Stats%3A" alt="GitHub Stats" />
   </a>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/lucasroussenq">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusblm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mateusblm">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusblm&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <hr />
