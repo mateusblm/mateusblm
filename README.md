@@ -43,10 +43,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-mockel-roussenq/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateusblm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:lucassenq@gmail.com">
+  <a href="mailto:mateusburla@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </div>
@@ -69,7 +69,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/lucasroussenq">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasroussenq&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusblm&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
         </a>
       </td>
     </tr>
