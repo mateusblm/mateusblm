@@ -20,17 +20,17 @@
   <br>
   <h3>Front-End</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="Front-End Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue" alt="Front-End Skills" />
   </a>
 
   <h3>Back-End & Banco de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql" alt="Back-End Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Back-End Skills" />
   </a>
 
   <h3>DevOps & Ferramentas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,phpstorm" alt="DevOps Skills" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" alt="DevOps Skills" />
   </a>
 </div>
 
