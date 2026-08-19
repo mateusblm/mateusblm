@@ -25,7 +25,7 @@
 
   <h3>Back-End & Banco de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,quarkus,mysql,postgres" alt="Back-End Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" alt="Back-End Skills" />
   </a>
 
   <h3>DevOps & Ferramentas</h3>
