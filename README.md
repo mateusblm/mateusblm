@@ -53,12 +53,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=GitHub+Stats%3A" alt="GitHub Stats" />
-  </a>
-</div>
-
 <hr />
 
 <div align="center">
