@@ -1,18 +1,83 @@
-### Opa 👋
-<p align="center">
-    <b>Sou um desenvolvedor back-end, focado em aplicações Java, Spring e Quarkus. Atualmente estudando princípios de clean code e orientação a objetos avançada.</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=header" width="100%" />
+</div>
 
-<ul>
-</ul>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=What's+up!+%F0%9F%91%8B" alt="What's up!" />
+  </a>
+</div>
 
-<details>
-    <summary>Minhas estatisticas do GitHub</summary>
-    <p align="center">
-        <img src="https://github-readme-stats-one-rho-30.vercel.app//api?username=mateusblm&theme=transparent&show_icons=true&include_all_commits=true" alt="" />
-    </p>
-    <p align="center">
-        <b>Linguagens mais usadas:</b> <br /> 
-        <img src="https://github-readme-stats-one-rho-30.vercel.app//api/top-langs?username=mateusblm&theme=transparent" alt="" />
-    </p>
-</details>
+<hr />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=Tecnologias+e+Stack%3A" alt="Tecnologias e Stack" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <h3>Front-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="Front-End Skills" />
+  </a>
+
+  <h3>Back-End & Banco de Dados</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql" alt="Back-End Skills" />
+  </a>
+
+  <h3>DevOps & Ferramentas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,phpstorm" alt="DevOps Skills" />
+  </a>
+</div>
+
+<hr />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=Contato%3A" alt="Contato" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-mockel-roussenq/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucassenq@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=GitHub+Stats%3A" alt="GitHub Stats" />
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasroussenq">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasroussenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lucasroussenq">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasroussenq&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=70&section=footer" width="100%" />
+</div>
